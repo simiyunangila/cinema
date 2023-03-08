@@ -1,0 +1,66 @@
+.main{margin:0% 5%;}
+.nav{margin-left: 20%;}
+.nav a{padding-left: 30px;}
+
+
+
+#button{background-color: yellow;color: white;padding: 5px 80px;}
+.intro{}
+.part2{float: right;border-style: solid;border-color: grey;border-radius: 7px;}
+.titlebar{background-color: yellow;}
+.titlebar input{padding: 5px;margin-left: 40%;}
+.titlebar i{float: right;width: 2%;}
+#rivendell{width: 600px;padding: 20px;}
+#res{text-align: center;font-size: 30px;}
+#new{text-align: center;font-size: 30px;}
+#lego1{width: 230px;}
+#lego2{width: 230px;}
+#lego3{width: 230px;}
+#lego4{width: 230px;}
+#lego5{width: 230px;}
+#lego6{width: 230px;}
+#lego7{width: 230px;}
+#lego8{width: 230px;}
+#on{padding: 10px 40px;margin-left: 40%;background-color: yellow;
+    color: white;border-radius: 5px;border-color: yellow;}
+#DC{width: 200px;border-radius: 5px;}
+
+#ser{text-align: center;font-size: 30px;}
+.series1{}
+#starwars{width: 280px;border-radius: 5%;}
+#marvel{width: 280px;border-radius: 5%;}
+#pandora{width: 280px;border-radius: 5%;}
+.series2{}
+#harry{width: 300px;border-radius: 5%;}
+#ideas{width: 300px;border-radius: 5%;}
+#creator{width:220px;border-radius: 5%;}
+.series3{}
+#mini{width: 200px;border-radius: 5px;}
+#classic{width: 180px;border-radius: 5px;}
+#riven{width: 200px;border-radius: 5px;}
+#ninja{width: 200px;border-radius: 5px;}
+.series4{}
+#disnep{width: 150px;border-radius: 5px;} 
+#pixar{width: 200px;border-radius: 5px;}
+#duplo{width: 200px;border-radius: 5px;}   
+#hea{text-align: center;font-size: 35px;}
+.images3{display: flex;}
+.one{margin-left: 5%;}
+#one{width: 300px;border-radius: 5%;}
+.two{margin-left: 5%;}
+#two{width: 300px;border-radius: 5%;}
+.three{margin-left: 5%;}
+#three{width: 340px;border-radius: 5%;}
+.bfooter{margin-top: 10%;background-color: yellow;}
+.bfooter label{margin-left: 20%;}
+.bfooter input{border-radius: 5px;}
+.bfooter button{color: white;background-color: palevioletred;
+    padding: 5px 20px;border-radius: 5px;}
+.footer{display: flex;background-color: purple;}
+.company{margin-left: 5%;}
+.Help{margin-left: 10%;}
+.Contact{margin-left: 10%;}
+.Social{margin-left: 10%;}
+.last{background-color: purple;}
+#logo{margin-left: 5%;width: 70px;}
+.last label{margin-left: 10%;}
