@@ -64,3 +64,4 @@
 .last{background-color: purple;}
 #logo{margin-left: 5%;width: 70px;}
 .last label{margin-left: 10%;}
+@media screen and (max-width:1000px){}
